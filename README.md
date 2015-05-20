@@ -1,4 +1,4 @@
-### BlueShart ###
+### BlueShart - Never Trust a 407###
 
 PoC for BlueCoat forwarding NTLM credentials to OCS.  See the following links for vendor-provided vulnerability information:
 
